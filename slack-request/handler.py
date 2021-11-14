@@ -10,9 +10,9 @@ def handle(req):
                 "value": "100",
                 "short": True
             }],
-            "author_name": alexte1,
+            "author_name": "alexte1",
             "author_icon": "",
-            "image_url": alexte1/slack-request
+            "image_url": "https://github.com/alexte1"
         },
         {
             "title": "About COEN 241",
